@@ -18,7 +18,7 @@ namespace GameOfLife
 				gameboard.OutputBoard (starboard);
 				Thread.Sleep (200);
 				Console.Clear ();
-
+				Console.Write("ssa")
 
 
 			}
